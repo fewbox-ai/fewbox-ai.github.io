@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://ai.fewbox.com/sitemap.xml
+Sitemap: https://fewbox.com/sitemap.xml
